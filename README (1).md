@@ -196,7 +196,7 @@ The Power BI dashboard includes:
 - Pie charts for type of travel (Personal / Business) and customer type (First-time / Returning)
 - Tables showing delay time, flight count, and delay percentage
 
-![Airline Customer Experience Power BI dashboard showing satisfaction breakdown, age classification, delay counts, travel type, and a heat map of experience ratings](images/dashboard.jpeg)
+![Airline Customer Experience Power BI dashboard showing satisfaction breakdown, age classification, delay counts, travel type, and a heat map of experience ratings](dashboard.jpeg)
 
 ## How to Run This Project
 
@@ -213,7 +213,7 @@ The Power BI dashboard includes:
 
 ## Author & Contact
 
-- **Name:** [Your Name]
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **GitHub:** [github.com/your-username](https://github.com/your-username)
+- **Name:** Amulya Sadige
+- **Email:** amulyasadige92@gmail.com
+- **LinkedIn:** (https://linkedin.com/in/amulyasadige)
+- **GitHub:** (https://github.com/amulyasadige92)
